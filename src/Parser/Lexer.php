@@ -89,7 +89,7 @@ class Lexer
     }
 
     /**
-     * Gran all inline tokens within a line.
+     * Fetch all inline tokens within a single line.
      * 
      * @param string $line
      * @return array Array of Char or Link tokens within the line.
